@@ -55,6 +55,25 @@ ExportedObj/
 # Unity3D generated file on crash reports
 sysinfo.txt
 
+# Unity Editor settings
+.vscode/
+.vs/
+**/.vs/**
+.idea/
+.DS_Store
+.gradle/
+# Rider project files
+.idea/**
+
+# Other temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.log
+*.log*
+*.meta
+
 # Builds
 *.apk
 *.aab
