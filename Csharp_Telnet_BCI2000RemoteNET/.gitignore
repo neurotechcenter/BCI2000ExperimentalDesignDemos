@@ -1,0 +1,6 @@
+.vs/
+**/obj
+**/bin
+remoteLog.txt
+.DS_Store
+.fake
